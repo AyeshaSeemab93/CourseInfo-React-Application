@@ -3,6 +3,7 @@
 
 # [CourseInfo React Application](https://ayeshaseemab93.github.io/CourseInfo-React-Application/)
 https://ayeshaseemab93.github.io/CourseInfo-React-Application/
+
 Welcome to the CourseInfo React Application! This project is a Half Stack application development tutorial, covering various aspects of React. The content includes exercises on React fundamentals, props, component state, Redux, Node.js routing, and middlewares, totaling 52 exercises.
 
 ## Project Overview
